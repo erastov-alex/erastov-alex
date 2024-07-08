@@ -1,8 +1,8 @@
 # Erastov Alexandr
 
-Junior Python Developer 
+Python/Golang Developer 
 
-👋 Welcome to my GitHub profile! I'm Erastov Alexandr, a junior Python developer.
+👋 Welcome to my GitHub profile! I'm Erastov Alexandr, a Python/Golang developer.
 
 ## Get in Touch
 - Telegram: @yourusernam3
